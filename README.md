@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waseem Ahmad Ebrahim</h1>
 <h3 align="center">A passionate fullstack developer intern at Capaciti</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waseem-ahmad-ebrahim&label=Profile%20views&color=0e75b6&style=flat" alt="waseem-ahmad-ebrahim" /> </p>
-
 - 🌱 I’m currently learning **Spring, SpringBoot**
 
 - 📫 How to reach me **waekkp@gmail.com**
