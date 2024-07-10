@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=460&size=30&pause=1000&color=24F730&center=true&vCenter=true&random=false&width=490&height=60&lines=Hello+There!+%F0%9F%91%8B;I'm+Waseem+Ahmad+Ebrahim+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=460&size=30&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=490&height=60&lines=Hello+There!+%F0%9F%91%8B;I'm+Waseem+Ahmad+Ebrahim+%E2%9A%A1)](https://git.io/typing-svg)
 
 # 💫 About Me:
 💼 Currently working as Full-stack developer intern at CAPACITI<br>🌱 I’m currently learning **Spring, SpringBoot, React**<br>💬 Ask me about **software development, quality assurance and anything tech related**<br> 📫 How to reach me **waekkp@gmail.com**
